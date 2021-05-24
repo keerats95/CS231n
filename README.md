@@ -1,6 +1,7 @@
 CS231n Convolutional Neural Networks for Visual Recognition - Assignment Solutions
 ===============
 
+I just made the first change in this that I would like to change 
 The course website: http://cs231n.stanford.edu/
 
 Here are my solutions for this above course (Winter 2016), for the benefit of people who struggle greatly to solve them (like myself). I myself (and some of my coursemates) did not enrolled in Stanford to take this course; I just have generous access to the course notes, lecture videos and assignment code, which is made public for everyone. Therefore I do not guarantee that my solutions are correct, so if you spot any errors do let me know.
